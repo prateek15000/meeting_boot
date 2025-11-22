@@ -2,33 +2,6 @@
 
 ![MeetingBot - AI Meeting NoteTaker](https://meetingbot3.s3.us-east-1.amazonaws.com/FULL+STACK.png)
 
-## Upcoming Features
-
-- [ ] Integrations
-   - [ ] Notion Integration
-   - [ ] Linear Integration
-   - [ ] Salesforce Integration
-   - [ ] Hubspot Integration
-- [ ] For past meetings:
-    - [ ] Users should be able to search through their meetings
-    - [ ] Date based filtering (ex: March 17 to April 1)
-    - [ ] Custom date range filtering (ex: last week, last month, last quarter)
-    - [ ] Meeting duration filtering (ex: less than 30 mins)
-    - [ ] Participant-based filtering
-- [ ] 100+ languages transcript translation (similar to Fireflies.ai)  
-      Users will be able to view their transcripts in over 100 languages using Google Cloud Translation API.
-- [ ] Workspaces Creation
-    - [ ] Users can create a workspace
-    - [ ] Users can invite other people to their workspace
-    - [ ] Role-based access control
-
-## Contributing
-
-Any contributions are welcome!  
-Pick a feature from the list above (or reach out if you have another idea) and open a PR 🤛
-
----
-
 # Overview
 
 **MeetingBot** is an open-source meeting intelligence platform that automatically joins your video calls on **Zoom, Google Meet, and Microsoft Teams** to provide **AI-powered transcription, summaries, and insights**.
